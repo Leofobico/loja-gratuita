@@ -16,7 +16,7 @@ fetch('./data/softwares.json')
                         <h2 class="productTitle">${element.name}</h2>
                         <!--<p class="productP">${element.description}</p>-->
                         <!--<input class="productCheckbox" type="checkbox">-->
-                        <button>Baixar</button>
+                        <a href="${element.downloadLink} rel="nofollow" target="_blank"><button>Baixar</button></a>
                     </div> 
                 </div>
                 `);

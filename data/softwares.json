@@ -1,192 +1,192 @@
 [
     {
-        "name" : "Steam",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "steam.jpg",
-        "downloadLink" : "a"
+      "name": "Steam",
+      "type": "game",
+      "description": "Plataforma de distribuição digital de jogos, com suporte a mods, conquistas e comunidade integrada.",
+      "color1": "#171a21",
+      "color2": "#66c0f4",
+      "image": "steam.jpg",
+      "downloadLink": "https://store.steampowered.com/about/download"
     },
     {
-        "name" : "Epic",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "epicgames.jpg",
-        "downloadLink" : "a"
+      "name": "Epic Games Launcher",
+      "type": "game",
+      "description": "Loja digital de jogos com títulos exclusivos como Fortnite e Rocket League.",
+      "color1": "#313131",
+      "color2": "#ffffff",
+      "image": "epicgames.jpg",
+      "downloadLink": "https://store.epicgames.com/pt-BR/download"
     },
     {
-        "name" : "EA",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "eagames.png",
-        "downloadLink" : "a"
+      "name": "EA App",
+      "type": "game",
+      "description": "Aplicativo oficial da Electronic Arts para baixar e gerenciar jogos como FIFA e The Sims.",
+      "color1": "#ff4747",
+      "color2": "#ffffff",
+      "image": "eagames.png",
+      "downloadLink": "https://www.ea.com/pt-br/ea-app"
     },
     {
-        "name" : "Ubisoft Connect",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "ubsoftconnect.jpg",
-        "downloadLink" : "a"
+      "name": "Ubisoft Connect",
+      "type": "game",
+      "description": "Hub central para jogos da Ubisoft, com recompensas, estatísticas e integração multiplataforma.",
+      "color1": "#000000",
+      "color2": "#00aaff",
+      "image": "ubisoftconnect.jpg",
+      "downloadLink": "https://www.ubisoft.com/pt-br/ubisoft-connect/download"
     },
     {
-        "name" : "Amazon Games",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "amazongames.jpg",
-        "downloadLink" : "a"
+      "name": "Amazon Games",
+      "type": "game",
+      "description": "Aplicativo para resgatar e jogar títulos gratuitos oferecidos pelo Prime Gaming.",
+      "color1": "#232f3e",
+      "color2": "#ff9900",
+      "image": "amazongames.jpg",
+      "downloadLink": "https://www.amazongames.com/pt-br/support/prime-gaming/articles/download-and-install-the-amazon-games-app"
     },
     {
-        "name" : "GOG Galaxy 2.0",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "goggalaxy20.jpg",
-        "downloadLink" : "a"
+      "name": "GOG Galaxy 2.0",
+      "type": "game",
+      "description": "Cliente que unifica bibliotecas de jogos de diferentes plataformas em um só lugar.",
+      "color1": "#8633ff",
+      "color2": "#ffffff",
+      "image": "goggalaxy20.jpg",
+      "downloadLink": "https://www.gog.com/galaxy"
     },
     {
-        "name" : "Riot Launcher",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "riotlauncher.jpg",
-        "downloadLink" : "a"
+      "name": "Riot Client",
+      "type": "game",
+      "description": "Lançador oficial da Riot Games para jogos como League of Legends e Valorant.",
+      "color1": "#e52626",
+      "color2": "#ffffff",
+      "image": "riotlauncher.jpg",
+      "downloadLink": "https://www.leagueoflegends.com/pt-br/download/"
     },
     {
-        "name" : "Battle Net",
-        "type" : "game",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "battlenet.jpg",
-        "downloadLink" : "a"
+      "name": "Battle.net",
+      "type": "game",
+      "description": "Plataforma da Blizzard para jogos como Overwatch, Diablo e World of Warcraft.",
+      "color1": "#0a0a0a",
+      "color2": "#00aeff",
+      "image": "battlenet.jpg",
+      "downloadLink": "https://download.battle.net/pt-br/desktop"
     },
     {
-        "name" : "Discord",
-        "type" : "utility",
-        "description" : "Canal de voz",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "discord.jpg",
-        "downloadLink" : "a"
+      "name": "Discord",
+      "type": "utility",
+      "description": "Aplicativo de comunicação por voz, vídeo e texto, popular entre comunidades gamers.",
+      "color1": "#5865f2",
+      "color2": "#ffffff",
+      "image": "discord.jpg",
+      "downloadLink": "https://discord.com/download"
     },
     {
-        "name" : "Spotify",
-        "type" : "utility",
-        "description" : "Software de musica",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "spotify.jpg",
-        "downloadLink" : "a"
+      "name": "Spotify",
+      "type": "utility",
+      "description": "Serviço de streaming de músicas e podcasts com milhões de faixas disponíveis.",
+      "color1": "#1db954",
+      "color2": "#191414",
+      "image": "spotify.jpg",
+      "downloadLink": "https://www.spotify.com/br-pt/download/windows/"
     },
     {
-        "name" : "Winrar",
-        "type" : "utility",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "winrar.jpg",
-        "downloadLink" : "a"
+      "name": "WinRAR",
+      "type": "utility",
+      "description": "Utilitário de compactação e descompactação de arquivos em diversos formatos.",
+      "color1": "#4a2c91",
+      "color2": "#ffffff",
+      "image": "winrar.jpg",
+      "downloadLink": "https://www.win-rar.com/download.html?L=9"
     },
     {
-        "name" : "EarTrumpet",
-        "type" : "utility",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "eartrumpet.jpg",
-        "downloadLink" : "a"
+      "name": "EarTrumpet",
+      "type": "utility",
+      "description": "Controle avançado de volume para Windows, permitindo ajustar o som por aplicativo.",
+      "color1": "#0078d7",
+      "color2": "#ffffff",
+      "image": "eartrumpet.jpg",
+      "downloadLink": "https://github.com/File-New-Project/EarTrumpet"
     },
     {
-        "name" : "Brave",
-        "type" : "utility",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "brave.jpg",
-        "downloadLink" : "a"
+      "name": "Brave",
+      "type": "utility",
+      "description": "Navegador focado em privacidade, com bloqueador de anúncios e rastreadores embutido.",
+      "color1": "#fb542b",
+      "color2": "#ffffff",
+      "image": "brave.jpg",
+      "downloadLink": "https://brave.com/pt-br/download/"
     },
     {
-        "name" : "Krita",
-        "type" : "development",
-        "description" : "Edição de Imagem",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "krita.jpg",
-        "downloadLink" : "a"
+      "name": "Krita",
+      "type": "development",
+      "description": "Software de pintura digital e ilustração, gratuito e de código aberto.",
+      "color1": "#3b3b3b",
+      "color2": "#ffffff",
+      "image": "krita.jpg",
+      "downloadLink": "https://krita.org/pt-pt/download/"
     },
     {
-        "name" : "GIMP",
-        "type" : "development",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "gimp.png",
-        "downloadLink" : "a"
+      "name": "GIMP",
+      "type": "development",
+      "description": "Editor de imagens gratuito e de código aberto, alternativa ao Photoshop.",
+      "color1": "#5c5c5c",
+      "color2": "#ffffff",
+      "image": "gimp.png",
+      "downloadLink": "https://www.gimp.org/downloads/"
     },
     {
-        "name" : "Blender",
-        "type" : "development",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "blender.jpg",
-        "downloadLink" : "a"
+      "name": "Blender",
+      "type": "development",
+      "description": "Suite de criação 3D gratuita, com modelagem, animação e renderização.",
+      "color1": "#f5792a",
+      "color2": "#ffffff",
+      "image": "blender.jpg",
+      "downloadLink": "https://www.blender.org/download/"
     },
     {
-        "name" : "Visual Studio Code",
-        "type" : "development",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "visualstudiocode.jpg",
-        "downloadLink" : "a"
+      "name": "Visual Studio Code",
+      "type": "development",
+      "description": "Editor de código-fonte leve e poderoso, com suporte a extensões.",
+      "color1": "#007acc",
+      "color2": "#ffffff",
+      "image": "visualstudiocode.jpg",
+      "downloadLink": "https://code.visualstudio.com/"
     },
     {
-        "name" : "Java Development Kit (JDK)",
-        "type" : "development",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "jdk.png",
-        "downloadLink" : "a"
+      "name": "Java Development Kit (JDK)",
+      "type": "development",
+      "description": "Kit de desenvolvimento para aplicações Java, incluindo compilador e bibliotecas.",
+      "color1": "#007396",
+      "color2": "#ffffff",
+      "image": "jdk.png",
+      "downloadLink": "https://www.oracle.com/java/technologies/javase-downloads.html"
     },
     {
-        "name" : "Phyton",
-        "type" : "development",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "python.jpg",
-        "downloadLink" : "a"
+      "name": "Python",
+      "type": "development",
+      "description": "Linguagem de programação versátil, usada em diversas áreas como web e ciência de dados.",
+      "color1": "#3776ab",
+      "color2": "#ffffff",
+      "image": "python.jpg",
+      "downloadLink": "https://www.python.org/downloads/"
     },
     {
-        "name" : "Node.js",
-        "type" : "development",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "nodejs.png",
-        "downloadLink" : "a"
+      "name": "Node.js",
+      "type": "development",
+      "description": "Ambiente de execução JavaScript para desenvolvimento de aplicações escaláveis.",
+      "color1": "#339933",
+      "color2": "#ffffff",
+      "image": "nodejs.png",
+      "downloadLink": "https://nodejs.org/en/download/"
     },
     {
-        "name" : "Live Server",
-        "type" : "extension",
-        "description" : "a",
-        "color1" : "a",
-        "color2" : "a",
-        "image" : "liveserver.png",
-        "downloadLink" : "a"
+      "name": "Live Server",
+      "type": "extension",
+      "description": "Extensão para Visual Studio Code que lança um servidor local com recarregamento automático.",
+      "color1": "#f14e32",
+      "color2": "#ffffff",
+      "image": "liveserver.png",
+      "downloadLink": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"
     }
-
-]
+  ]
+  
