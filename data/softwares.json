@@ -1,0 +1,192 @@
+[
+    {
+        "name" : "Steam",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "steam.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Epic",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "epicgames.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "EA",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "eagames.png",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Ubisoft Connect",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "ubsoftconnect.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Amazon Games",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "amazongames.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "GOG Galaxy 2.0",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "goggalaxy20.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Riot Launcher",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "riotlauncher.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Battle Net",
+        "type" : "game",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "battlenet.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Discord",
+        "type" : "utility",
+        "description" : "Canal de voz",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "discord.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Spotify",
+        "type" : "utility",
+        "description" : "Software de musica",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "spotify.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Winrar",
+        "type" : "utility",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "winrar.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "EarTrumpet",
+        "type" : "utility",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "eartrumpet.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Brave",
+        "type" : "utility",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "brave.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Krita",
+        "type" : "development",
+        "description" : "Edição de Imagem",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "krita.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "GIMP",
+        "type" : "development",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "gimp.png",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Blender",
+        "type" : "development",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "blender.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Visual Studio Code",
+        "type" : "development",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "visualstudiocode.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Java Development Kit (JDK)",
+        "type" : "development",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "jdk.png",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Phyton",
+        "type" : "development",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "python.jpg",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Node.js",
+        "type" : "development",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "nodejs.png",
+        "downloadLink" : "a"
+    },
+    {
+        "name" : "Live Server",
+        "type" : "extension",
+        "description" : "a",
+        "color1" : "a",
+        "color2" : "a",
+        "image" : "liveserver.png",
+        "downloadLink" : "a"
+    }
+
+]
