@@ -27,8 +27,8 @@ section {
 .productUnit {
     height: 10vw;
     width: 10vw;
-    min-width: 180px;
-    min-height: 180px;
+    min-width: 165px;
+    min-height: 165px;
     border: 2px solid black;
     border-radius: 5%;
     background-color: #1c679c;
