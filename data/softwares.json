@@ -1,5 +1,77 @@
 [
   {
+    "name": "Ventoy",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "Rufus",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "Ubuntu",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "MiniOS",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "Zorin OS",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "ColorZilla",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "uBlock Origin",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
+    "name": "UnHook",
+    "type": "",
+    "description": "",
+    "color1": "",
+    "color2": "",
+    "image": "",
+    "downloadLink": ""
+  },
+  {
     "name": "Steam",
     "type": "game",
     "description": "Plataforma de distribuição digital de jogos, com suporte a mods, conquistas e comunidade integrada.",
